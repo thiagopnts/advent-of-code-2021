@@ -1,3 +1,4 @@
+// rustc day2-2.rs && ./day2-2 < input.txt
 use std::io::{self, BufRead};
 
 fn main() {
