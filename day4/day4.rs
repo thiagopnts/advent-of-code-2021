@@ -85,7 +85,6 @@ fn main() {
                     );
                 }
                 if done.len() == total {
-                    let last = done.last().unwrap();
                     println!(
                         "part 2 solution last draw: {}, unmarked_sum: {} = {}",
                         draw,
